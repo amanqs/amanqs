@@ -21,7 +21,7 @@
 ### <img src="https://media.giphy.com/media/IqgySmxEgP0rs40ZMB/giphy.gif" width="50"> sᴛᴀᴛs:
 <p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pyrogram&theme=highcontrast" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=amanqs&theme=highcontrast" align="center">
 </p>
 <!--
 **amanqs/amanqs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
