@@ -61,7 +61,24 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&show_icons=true&theme=radical&hide_border=false&count_private=true" height="200" alt="stats graph"  />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurodesouza&layout=compact&langs_count=8&theme=radical&hide_border=false" height="200" alt="languages graph"  />
 </div>
 
 ###
+
+<div align="center">
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&theme=radical&hide_border=false&border_radius=5" height="200" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=maurodesouza&theme=radical&no-frame=false&no-bg=true&margin-w=15&margin-h=15" height="150" alt="trophies graph"/>
+</div>
+
